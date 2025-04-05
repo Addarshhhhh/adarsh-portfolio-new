@@ -8,7 +8,7 @@ export function AboutSection() {
 
       <div className="flex flex-col md:flex-row gap-6">
         <div className="md:w-2/5">
-          <AsciiPortraitComparison />
+        <img src="public/adarsh_.jpeg" alt="Adarsh Singh" className="rounded-lg w-full h-auto" />
           <div className="text-center text-xs text-muted-foreground mt-2">
             Adarsh Singh
             <br />
