@@ -18,8 +18,7 @@ export function AboutSection() {
 
         <div className="space-y-3 md:w-3/5">
           <p>
-            Hello! I'm Adarsh Singh, a Software Development Engineer specializing in web development, machine learning,
-            and software engineering.
+          Hello! I'm Adarsh Singh, a Software Development Engineer with a strong focus on web development and software engineering. I bring expertise in building responsive user interfaces, optimizing backend systems, and deploying robust applications. My passion lies in crafting efficient, scalable solutions to complex challenges.
           </p>
 
           <p>

@@ -9,26 +9,26 @@ export function SkillsSection() {
         <div>
           <h3 className="text-primary font-bold mb-2">Programming Languages</h3>
           <div className="space-y-2">
-            <SkillBar name="Python (3+ years)" percentage={90} />
+            <SkillBar name="Python (3+ years)" percentage={60} />
             <SkillBar name="C/C++ (3+ years)" percentage={85} />
-            <SkillBar name="SQL (3+ years)" percentage={85} />
-            <SkillBar name="JavaScript (1+ years)" percentage={80} />
-            <SkillBar name="HTML (1+ years)" percentage={80} />
-            <SkillBar name="CSS (1+ years)" percentage={75} />
+            <SkillBar name="SQL (3+ years)" percentage={70} />
+            <SkillBar name="JavaScript (1+ years)" percentage={50} />
+            <SkillBar name="HTML (1+ years)" percentage={70} />
+            <SkillBar name="CSS (1+ years)" percentage={70} />
           </div>
         </div>
 
         <div>
           <h3 className="text-primary font-bold mb-2">Frameworks & Tools</h3>
           <div className="space-y-2">
-            <SkillBar name="Node.js" percentage={85} />
-            <SkillBar name="React" percentage={85} />
-            <SkillBar name="MERN Stack" percentage={80} />
-            <SkillBar name="MySQL" percentage={85} />
-            <SkillBar name="FastAPI" percentage={80} />
-            <SkillBar name="Docker" percentage={75} />
-            <SkillBar name="Git" percentage={85} />
-            <SkillBar name="REST APIs" percentage={80} />
+            <SkillBar name="Node.js" percentage={65} />
+            <SkillBar name="React" percentage={70} />
+            <SkillBar name="MERN Stack" percentage={70} />
+            <SkillBar name="MySQL" percentage={75} />
+            <SkillBar name="FastAPI" percentage={60} />
+            <SkillBar name="Docker" percentage={55} />
+            <SkillBar name="Git" percentage={70} />
+            <SkillBar name="REST APIs" percentage={70} />
           </div>
         </div>
 
@@ -45,7 +45,7 @@ export function SkillsSection() {
         <div>
           <h3 className="text-primary font-bold mb-2">Soft Skills</h3>
           <div className="space-y-2">
-            <SkillBar name="Problem Solving" percentage={90} />
+            <SkillBar name="Problem Solving" percentage={80} />
             <SkillBar name="Collaboration" percentage={85} />
             <SkillBar name="Project Management" percentage={80} />
             <SkillBar name="Adaptability" percentage={85} />

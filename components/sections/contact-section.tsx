@@ -13,7 +13,7 @@ export function ContactSection() {
             className="flex items-center text-sm hover:text-primary transition-colors"
           >
             <Mail className="h-4 w-4 mr-2 text-primary" />
-            thisisadarshhh@outlook.com
+            adarshworks@outlook.com
           </a>
           <a href="tel:+918318996909" className="flex items-center text-sm hover:text-primary transition-colors">
             <Phone className="h-4 w-4 mr-2 text-primary" />
@@ -24,13 +24,13 @@ export function ContactSection() {
             Bangalore, India
           </div>
           <a
-            href="https://www.linkedin.com/in/adarsh-singh/"
+            href="https://www.linkedin.com/in/adarsh-singh-4805b721b/"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center text-sm hover:text-primary transition-colors"
           >
             <Linkedin className="h-4 w-4 mr-2 text-primary" />
-            linkedin.com/in/adarsh-singh
+            https://github.com/Addarshhhhh
           </a>
           <a
             href="https://github.com/thisisadarshhh"
