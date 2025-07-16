@@ -61,29 +61,37 @@ export function ProjectsSection() {
         </div>
 
         <div className="p-3 border border-primary/20 rounded bg-primary/5">
-          <h3 className="text-primary font-bold">Google Gemini Clone - AI Chatbot Interface</h3>
+          <h3 className="text-primary font-bold">Fast7⚡ - SaaS Restaurant Website Builder</h3>
           <pre className="text-xs my-2 text-muted-foreground">
             {`
   +-------------+     +----------------+     +----------------+
-  | React       |---->| JavaScript     |---->| Google Gemini  |
-  | UI          |     | Logic          |     | API            |
+  | React       |---->| TypeScript     |---->| Vite           |
+  | Frontend    |     | Type Safety    |     | Fast Builds    |
   +-------------+     +----------------+     +----------------+
         |                    |                      |
         v                    v                      v
   +-------------+     +----------------+     +----------------+
-  | Responsive  |---->| Real-time      |---->| AI-Generated   |
-  | Design      |     | Feedback       |     | Responses      |
+  | Tailwind    |---->| Google OAuth   |---->| Restaurant     |
+  | CSS         |     | Authentication |     | Dashboard      |
+  +-------------+     +----------------+     +----------------+
+        |                    |                      |
+        v                    v                      v
+  +-------------+     +----------------+     +----------------+
+  | Mobile-First|---->| Order          |---->| 7-Minute       |
+  | Design      |     | Management     |     | Setup          |
   +-------------+     +----------------+     +----------------+
 `}
           </pre>
           <p className="text-sm mb-2">
-            Built a chatbot UI in React, integrating Google Gemini API for AI-generated responses. Developed a
-            responsive interface with React framework, ensuring smooth query handling and real-time feedback.
+            Built a comprehensive SaaS platform that helps restaurant owners create stunning websites in under 7
+            minutes. Features include mobile-first responsive design, Google OAuth integration, order management
+            dashboard, and lightning-fast setup process with modern UI/UX.
           </p>
-          <p className="text-xs text-muted-foreground mb-2">Technologies: React, JavaScript, API Integration</p>
+          <p className="text-xs text-muted-foreground mb-2">
+            Technologies: React, TypeScript, Vite, Tailwind CSS, Google OAuth
+          </p>
         </div>
       </div>
     </div>
   )
 }
-
